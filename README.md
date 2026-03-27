@@ -33,3 +33,5 @@ Each user is identified by their Stellar address, ensuring global accessibility 
 ## 🔗 Deployed Smart Contract
 
 **Contract Address:** CAMONSWCWIQBR3Z3DTEDWMCF2PWH5XLOZAFFYXUPVPDAPQLKLY2PHMVC
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10e81daf-fdc5-4777-b2d5-63357f6dcb43" />
+
